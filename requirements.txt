@@ -11,7 +11,7 @@ charset-normalizer==3.4.4
 click==8.2.1
 colorama==0.4.6
 distlib==0.4.0
-Django==5.2.8
+Django==5.2.11
 django-cors-headers==4.9.0
 django-embed-video==1.4.10
 django-filter==25.2
